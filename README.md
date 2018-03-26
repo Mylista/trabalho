@@ -9,7 +9,7 @@ Ingridy:ingridy676@gmail.com<br>
 Isaque:isaquesiqueiraamaral@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
-Este documento contém a especificação do projeto do banco de dados <MyLista> 
+Este documento contém a especificação do projeto do banco de dados MyLista
 <br>e motivação da escolha realizada. <br>
 
 > .
