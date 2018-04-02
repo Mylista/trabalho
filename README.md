@@ -29,10 +29,16 @@ em sua última visita ao supermercado, sugerindo as marcas que são comprados pe
 médio. O aplicativo também mostra opções de ofertas do dia caso o cliente queira economizar, ele poderá trocar de sua marca preferida 
 para uma mais barata. Caso o cliente supermercado atualize os seus produtos, o programador modificará o banco de dados e as novas 
 informações serão: a nova localização do produto(se houver mudança), o novo preço e as marcas de promoção do dia (menor preço). Caso o 
-cliente consumidor (usuário) atualize as suas preferências, o programador modificará o banco de dados e as novas informações serão: as marcas da preferência, a idade(passar dos anos), caso haja uma mudança no estado civil, a integração ou saída de um integrante da família e realizará a formação de uma nova lista com base nas novas informações fornecidas. 
+cliente consumidor (usuário) atualize as suas preferências, o programador modificará o banco de dados e as novas informações serão: as 
+marcas da preferência, a idade (passar dos anos), caso haja uma mudança no estado civil, a integração ou saída de um integrante da 
+família e realizará a formação de uma nova lista com base nas novas informações fornecidas. Com as novas informaçoes de ambos clientes 
+aplicativo terá a sua tela principal e sua lista atualizadas apresentando as novas informações fornecidas anteriormente. Outro fator 
+importante será a avaliação dos produtos do supermercado, onde os usuários farão avaliações (caso queiram) de qualidade, a viçosidade, 
+custo x benefício, as informações obtidas serão transmitidas a outros usuários que tem preferências semelhantes como uma sugestão.
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
+Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da 
+interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
