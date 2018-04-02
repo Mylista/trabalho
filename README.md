@@ -17,14 +17,19 @@ O nosso projeto foi criado com o intuito de facilitar a vida das pessoas que nã
 
 ### 3.MINI-MUNDO Novo<br>
 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas) <br>
-Entrevista com o usuário e identificação dos requisitos.<br>
-Descrição textual das regras de negócio definidas como um  subconjunto do mundo real 
-cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
-gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
-
-> O sistema proposto para o aplicativo Mylista conterá as informacões a seguir. Do usuário serão armazenados o nome, estado civil, sexo, idade, quantidade de pessoas que a compra será destinada, quantas dessas pessoas são crianças ou adultas e o sexo de cada uma delas. Dos supermercados serão armazenados o nome, os produtos, o preço dos produtos, os produtos em promoção, localização(número do corredor, seção e prateleira) e marcas. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes. 
-
+> O sistema proposto para o aplicativo Mylista conterá as informacões a seguir. Do usuário serão armazenados o nome, estado civil, 
+sexo,idade, quantidade de pessoas que a compra será destinada, quantas dessas pessoas são crianças ou adultas e o sexo de cada uma 
+delas. Dos supermercados serão armazenados o nome, os produtos, o preço dos produtos, os produtos em promoção, localização(número do     
+corredor, seção e prateleira) e marcas. Se a pessoa estiver comprado no supermercado pela primeira vez o aplicativo sugere uma lista de 
+compras que é baseado nas compras de outras pessoas que se encaixam no mesmo perfil com um preço médio. No momento da compra a pessoa 
+recebe o preço dos produtos com suas respectivas marcas. Quando o cliente escolhe o que quer comprar, o app fornece a localização do 
+produto no supermercado, como o numero do corredor, a seção e a prateleira. No caso em que o usuário não esteja fazendo sua primeira 
+compra, o programa fornece uma lista baseado nas últimas compras, colocando na lista todos os produtos que foram comprados pelo cliente 
+em sua última visita ao supermercado, sugerindo as marcas que são comprados pelo cliente com frequência e fornecendo também um preço 
+médio. O aplicativo também mostra opções de ofertas do dia caso o cliente queira economizar, ele poderá trocar de sua marca preferida 
+para uma mais barata. Caso o cliente supermercado atualize os seus produtos, o programador modificará o banco de dados e as novas 
+informações serão: a nova localização do produto(se houver mudança), o novo preço e as marcas de promoção do dia (menor preço). Caso o 
+cliente consumidor (usuário) atualize as suas preferências, o programador modificará o banco de dados e as novas informações serão: as marcas da preferência, a idade(passar dos anos), caso haja uma mudança no estado civil, a integração ou saída de um integrante da família e realizará a formação de uma nova lista com base nas novas informações fornecidas. 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
