@@ -19,7 +19,7 @@ O nosso projeto foi criado com o intuito de facilitar a vida das pessoas que nã
 
 > O sistema proposto para o aplicativo Mylista conterá as informacões a seguir. Do usuário serão armazenados o nome, estado civil, 
 sexo,idade,e-mail, quantidade de pessoas que a compra será destinada, quantas dessas pessoas são crianças ou adultas e o sexo de cada uma 
-delas. Dos supermercados serão armazenados o nome, os produtos, o preço dos produtos, os produtos em promoção, localização(número do     
+delas. Dos supermercados serão armazenados o nome, os produtos, o preço dos produtos, codigo do produto,  os produtos em promoção, localização(número do     
 corredor, seção e prateleira) e marcas. Se a pessoa estiver comprado no supermercado pela primeira vez o aplicativo sugere uma lista de 
 compras que é baseado nas compras de outras pessoas que se encaixam no mesmo perfil com um preço médio. No momento da compra a pessoa 
 recebe o preço dos produtos com suas respectivas marcas. Quando o cliente escolhe o que quer comprar, o app fornece a localização do 
