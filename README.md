@@ -42,8 +42,8 @@ interface para identificar possíveis informações a serem armazenadas e/ou des
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/Mylista/trabalho/blob/master/imagens/Supermercado.png "Supermercado")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discipint/trabalho01/blob/master/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
+![Alt text](https://github.com/Mylista/trabalho/blob/master/imagens/pagina1.jpg "Supermercado")
+![Arquivo ](https://marvelapp.com/project/2848998/"Supermercado")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
