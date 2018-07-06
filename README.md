@@ -47,7 +47,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
-    
+    (https://github.com/Mylista/trabalho/blob/master/arquivos/mode%20sup.xlsx)
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
