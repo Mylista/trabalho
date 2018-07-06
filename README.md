@@ -43,7 +43,7 @@ interface para identificar possíveis informações a serem armazenadas e/ou des
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/Mylista/trabalho/blob/master/imagens/pagina1.jpg "Supermercado")
-![Arquivo ](https://marvelapp.com/project/2848998/"Supermercado")
+(https://github.com/Mylista/trabalho/blob/master/imagens/pagina2.png )
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
