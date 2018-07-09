@@ -95,10 +95,12 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ### 6	MODELO LÓGICO<br>
         a) inclusão do modelo lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
+        https://github.com/Mylista/trabalho/blob/master/arquivos/supermercado.mwb
         (não serão aceitos modelos que não estejam em conformidade)
 
 ### 7	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas DDL 
+        https://github.com/Mylista/trabalho/blob/master/arquivos/supermercado.sql
         (criação de tabelas, alterações, etc..)          
         
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
