@@ -88,8 +88,39 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    USUÁRIO: Tabela que armazena as informações relativas ao usuário<br>
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente do aplicativo.<br>
+    NOME: campo que armazena o nome para cada cliente do aplicativo.<br>
+    IDADE: campo que armazena a idade para cada cliente do aplicativo.<br>
+    SEXO: campo que armazena o sexo para cada cliente do aplicativo.<br>
+    ESTADO CIVIL: campo que armazena o estado civil de cada cliente do aplicativo.<br>
+    <br>
+    <br>
+    PRODUTOS: Tabela que armazena as informações relativas aos produtos.<br>
+    MARCA: campo que armazena a marca de cada produto do supermercado.<br>
+    CÓDIGO: campo que armazena o código de cada produto do supermercado.<br>
+    PREÇO: campo que armazena o preço de cada produto do supermercado.<br>
+    <br>
+    <br>
+    SUPERMERCADO: Tabela que armazena as informações relativas ao supermercado.<br>
+    CORREDORES: campo que armazena a localiazação dos corredores de cada supermercado.<br>
+    PRETELEIRA: campo que armazena a localização das prateleiras de cada supermercado.<br>
+    SEÇÃO: campo que armazena a localização de cada seção do supermercado.<br>
+    OFERTAS: campo que armazena as ofertas de cada supermercado.<br>
+    <br>
+    <br>
+    DEPENDENTES: Tabela que armazena as informações relativas aos dependentes.<br>
+    IDADE: campo que armazena a idade de cada dependente.<br>
+    SEXO: campo que armazena o sexo de cada dependente.<br>
+    <br>
+    <br>
+    AVALIAÇÕES: Tabela que armazena as avaliações relativas aos clientes.<br>
+    CUSTO_X_BENEFICIO: campo que armazena a avalização com base no custo beneficio de cada produto.<br>
+    QUALIDADE: campo que armazena a avalização com base na qualidade de cada produto.<br>
+    <br>
+    <br>
+    PREFERENCIAS:Tabela que armazena as preferencias relativas aos clientes.<br>
+    <br>
 
 >## Marco de Entrega 01 em: (12/05/2018)<br>
 ### 6	MODELO LÓGICO<br>
